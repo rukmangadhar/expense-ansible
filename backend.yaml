@@ -2,8 +2,8 @@ name: configure backend server
 hosts: backend
 become: yes
 vars:
- login_password: "ExpenseApp@1"
- login_host: "db.practdaws.online"
+ login_password: ExpenseApp@1
+ login_host: db.practdaws.online
 
 tasks:
 - name: desable default node js
