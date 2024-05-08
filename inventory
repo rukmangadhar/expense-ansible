@@ -3,3 +3,6 @@ db.practdaws.online
 
 [backend]
 backend.practdaws.online
+
+[frontend]
+practdaws.online
